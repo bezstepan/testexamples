@@ -22,5 +22,5 @@ $yarn
 3. run:
 
 ```
-$cd Actions/ && testcafe chrome thngs.js
+$cd Actions/ && testcafe chrome thng.js
 ```

@@ -17,7 +17,7 @@ $yarn
 
 ## Usage
 
-1. Register at dashboard.evrythng.com
+1. Register at https://dashboard.evrythng.com
 2. Update config.js with your credentials
 3. run:
 
